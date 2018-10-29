@@ -1,0 +1,13 @@
+2018-10-27 12:24:05 INFO  LoginPageTestCases:61 - Login page clicked
+2018-10-27 12:24:05 INFO  LoginPageTestCases:63 - Email entered
+2018-10-27 12:24:06 INFO  LoginPageTestCases:65 - Password entered
+2018-10-27 12:24:08 INFO  LoginPageTestCases:67 - Login button clicked
+2018-10-27 12:24:24 INFO  LandingPageTestCases:67 - Home page clicked
+2018-10-27 12:24:43 INFO  LandingPageTestCases:78 - Course page clicked
+2018-10-27 12:24:58 INFO  LandingPageTestCases:89 - Video page clicked
+2018-10-27 12:25:13 INFO  LandingPageTestCases:99 - Interview guide page clicked
+2018-10-27 12:25:32 INFO  LandingPageTestCases:109 - Practise  page clicked
+2018-10-27 12:25:48 INFO  LandingPageTestCases:120 - Blog page clicked
+2018-10-27 12:26:03 INFO  LandingPageTestCases:130 - About page clicked
+2018-10-27 12:26:18 INFO  LandingPageTestCases:140 - Contact page clicked
+2018-10-27 12:26:34 INFO  LandingPageTestCases:150 - Register page clicked
